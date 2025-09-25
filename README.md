@@ -1,5 +1,5 @@
 Integrantes: 
-Nicolas Machado RM552493
+Nicolas Machado RM552493 /
 José Roberto Claudino Ferreira RM552407
 
 <img width="620" height="1375" alt="image" src="https://github.com/user-attachments/assets/ad841e71-7f1b-43f3-8b06-7aa6169a5166" />
